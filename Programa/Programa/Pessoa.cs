@@ -8,5 +8,9 @@ namespace Programa
     {
         string nome;
         string cpf;
+        int idade;
+        int quantfilhos;
+        string nacionalidade;
+        int tamanho;
     }
 }
